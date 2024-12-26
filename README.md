@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, it's **William Lin**, a coding ninja, as well as a Taiwan boy who always holds curiosity 😎
+Hello, it's **JWBlackHole**, a coding ninja, as well as a Taiwan boy who always holds curiosity 😎
 I'm currently an **NTHU EECS** student, passionate about **Data Science** and **Machine Learning**, as well as a **SWE Intern** at **Delta Electronics** since 2024.07.
+
+👇I also have a web page coded in **Next.js** and styled with **TailwindCSS**:👇  
+[page.blackholeljw.com](page.blackholeljw.com)
 
 ## Project
 ### Decoding MEG Brain Waves: A Comparative Analysis of ML Model Performance
