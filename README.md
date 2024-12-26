@@ -19,7 +19,7 @@ Hello, it's **JWBlackHole**, a coding ninja, as well as a Taiwan boy who always 
 I'm currently an **NTHU EECS** student, passionate about **Data Science** and **Machine Learning**, as well as a **SWE Intern** at **Delta Electronics** since 2024.07.
 
 👇I also have a web page coded in **Next.js** and styled with **TailwindCSS**:👇  
-[page.blackholeljw.com](page.blackholeljw.com)
+[page.blackholeljw.com](https://page.blackholeljw.com)
 
 ## Project
 ### Decoding MEG Brain Waves: A Comparative Analysis of ML Model Performance
