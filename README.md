@@ -19,8 +19,8 @@ Hello, it's **William Lin**, a coding ninja, as well as a Taiwan boy who always 
 I'm currently an **NTHU EECS** student, passionate about **Data Science** and **Machine Learning**, as well as a **SWE Intern** at **Delta Electronics** since 2024.07.
 
 ## Project
-- Decoding MEG Brain Waves: A Comparative Analysis of ML Model Performance  
-  Description: Explored the comparative performance of various machine learning models in decoding magnetoencephalography (MEG) brain wave data, provideing insights into model selection for neural decoding tasks.
+### Decoding MEG Brain Waves: A Comparative Analysis of ML Model Performance
+Explored the **comparative performance** of various machine learning models in decoding **magnetoencephalography (MEG)** brain wave data, provideing insights into model selection for neural decoding tasks.
 ## CLUBS
 - NTHU Google Developer Student Club
 - NTHU Garage
