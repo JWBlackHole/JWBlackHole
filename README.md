@@ -31,8 +31,8 @@ Explored the **comparative performance** of various machine learning models in d
 
 ---
 
-  <a href="https://github.com/JWBlackHole"><img alt="JW's Github Stats" src="https://github-readme-stats.vercel.app/api?username=s990093&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/JWBlackHole"><img alt="JW's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s990093&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+  <a href="https://github.com/JWBlackHole"><img alt="JW's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JWBlackHole&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/JWBlackHole"><img alt="JW's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWBlackHole&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
   
 ---
 
