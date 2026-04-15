@@ -1,50 +1,16 @@
 ## About Me 👋
 
-<!--
-**JWBlackHole/JWBlackHole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **William Lin** — a **product-minded software engineer** with a strong **builder mindset**.
 
-Here are some ideas to get you started:
+I enjoy turning ambiguous ideas and real market pain points into working systems through **system design, full-stack development, and rapid prototyping**. My interests are centered around **AI products**, **system architecture**, and **startup building**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently studying **Computer Science and Electrical Engineering at National Tsing Hua University (NTHU)**, and I’m especially interested in building products that connect technical capability with real user needs.
 
-Hello, it's **JWBlackHole**, a coding ninja, as well as a Taiwan boy who always holds curiosity 😎
-I'm currently an **NTHU EECS** student, passionate about **Data Science** and **Machine Learning**, as well as a **SWE Intern** at **Delta Electronics** since 2024.07.
+Recently, I:
+- 🏆 Built **AIdoll**, the **1st-place project** at **AWS AIWave Hackathon Taiwan 2025**
+- ⚙️ Worked on **automation and production software workflows** as a **Software Engineering Intern at Delta Electronics**
+- 🚀 Built products from **market pain points to deployable systems** through startup and hackathon experiences
 
-👇I also have a web page coded in **Next.js** and styled with **TailwindCSS**:👇  
-[page.blackholeljw.com](https://page.blackholeljw.com)
+I’m currently growing from a **product-minded engineer** into a stronger **AI, product, and business thinker**.
 
-## Project
-
-### AIdoll: Champion of AWS AIWave Hackathon Taiwan 2025
-- Led system architecture and hardware integration for AIdoll, a Raspberry Pi–powered virtual idol leveraging AWS Transcribe, Bedrock Claude 3 Sonnet, Lambda, and S3 to enable real-time voice and image interaction; engineered scalable cloud‐edge workflows that deepened expertise in multimodal AI development, AWS service orchestration, and real-time system design.
-
-### Decoding MEG Brain Waves: A Comparative Analysis of ML Model Performance
-Explored the **comparative performance** of various machine learning models in decoding **magnetoencephalography (MEG)** brain wave data, provideing insights into model selection for neural decoding tasks.
-
----
-
-  <a href="https://github.com/JWBlackHole"><img alt="JW's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JWBlackHole&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/JWBlackHole"><img alt="JW's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWBlackHole&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-  
----
-
-
-## CLUBS
-- NTHU Google Developer Student Club
-- NTHU Garage
-- NTHU Blockchain Club
-
-## SKILLS
-- Python, Javascript, C/C++
-- Pytorch, Tensorflow
-- Git, Conda, Docker, Linux/Unix
-
-
+🌐 Personal website: [page.blackholeljw.com](https://page.blackholeljw.com)
